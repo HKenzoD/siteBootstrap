@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: midnightblue;
+    color: white;
+    max-width: 100%;
+}
+.container {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.cards {
+    padding: 8px;
+}
+.carousel-item {
+    height: 400px;
+}
+.card-text-bg-dark, time {
+    background-color: rgba(0,0,0,1);
+}
+.nav-link {
+    text-align: center; 
+    color: rgb(231, 205, 205);
+}
+.navbar-nav .nav-link.active {
+    color: white;
+}
+.col-lg-4, .col-md-6, .col-sm-12 {
+padding: 8px;
+
+}
+header, footer {
+    color: white;
+    padding: 8px;
+    background-color: midnightblue;
+}
+
+header {
+    display: block;
+    box-sizing: border-box;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.navbar-toggler-icon, .navbar-toggler {
+    background-color: white;
+}
+
+#oda {
+    background-color: black;
+}
+#toyo {
+    background-color: darkred;
+}
+#toku {
+    background-color: darkgreen;
+}
+.row img {
+    height: 300px;
+}
+.card-title-oda {
+    color: white;
+    background-color: black;
+}
+.card-title-toyo {
+    color: white;
+    background-color: darkred;
+}
+.card-title-toku {
+    color: white;
+    background-color: darkgreen;
+}
+.card-text-oda {
+    color: white;
+    background-color: black;
+}
+.card-text-toyo {
+    color: white;
+    background-color: darkred;
+}
+.card-text-toku {
+    color: white;
+    background-color: darkgreen;
+}
